@@ -1,0 +1,9 @@
+This student library system  has created using Oops ,  Where student can borrow a book from the list of book.
+
+How tocreate?
+create a separate library and student class .
+Your Program must be a meny Driven
+You are free too cchose method and atributes of your choice to implement this functionality.
+
+
+
