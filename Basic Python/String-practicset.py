@@ -1,6 +1,6 @@
 # Q1- Enter your name and recive a greeting massage.
 '''
-name = input("Enter tour name\n")
+name = input("Enter Your name\n")
 greet = "\tGood Morning"
 print(name+greet)   '''
 
