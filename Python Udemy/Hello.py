@@ -6,3 +6,4 @@ if today == "Monday":
     print("Today is Monday")
 else:
     print("Today is not Monday")
+
